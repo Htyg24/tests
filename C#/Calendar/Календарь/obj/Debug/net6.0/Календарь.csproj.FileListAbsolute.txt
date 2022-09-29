@@ -1,0 +1,15 @@
+C:\Users\Олег\source\repos\Календарь\Календарь\bin\Debug\net6.0\Календарь.exe
+C:\Users\Олег\source\repos\Календарь\Календарь\bin\Debug\net6.0\Календарь.deps.json
+C:\Users\Олег\source\repos\Календарь\Календарь\bin\Debug\net6.0\Календарь.runtimeconfig.json
+C:\Users\Олег\source\repos\Календарь\Календарь\bin\Debug\net6.0\Календарь.dll
+C:\Users\Олег\source\repos\Календарь\Календарь\bin\Debug\net6.0\Календарь.pdb
+C:\Users\Олег\source\repos\Календарь\Календарь\obj\Debug\net6.0\Календарь.csproj.AssemblyReference.cache
+C:\Users\Олег\source\repos\Календарь\Календарь\obj\Debug\net6.0\Календарь.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Олег\source\repos\Календарь\Календарь\obj\Debug\net6.0\Календарь.AssemblyInfoInputs.cache
+C:\Users\Олег\source\repos\Календарь\Календарь\obj\Debug\net6.0\Календарь.AssemblyInfo.cs
+C:\Users\Олег\source\repos\Календарь\Календарь\obj\Debug\net6.0\Календарь.csproj.CoreCompileInputs.cache
+C:\Users\Олег\source\repos\Календарь\Календарь\obj\Debug\net6.0\Календарь.dll
+C:\Users\Олег\source\repos\Календарь\Календарь\obj\Debug\net6.0\refint\Календарь.dll
+C:\Users\Олег\source\repos\Календарь\Календарь\obj\Debug\net6.0\Календарь.pdb
+C:\Users\Олег\source\repos\Календарь\Календарь\obj\Debug\net6.0\Календарь.genruntimeconfig.cache
+C:\Users\Олег\source\repos\Календарь\Календарь\obj\Debug\net6.0\ref\Календарь.dll
